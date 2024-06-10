@@ -44,8 +44,10 @@ body {
 h1 {
   font-family: "BrandFont", sans-serif;
   font-size: 8em;
-  line-height: 1;
+  line-height: 0.6em;
   margin-bottom: 0;
+  margin-top: 0.5em;
+  text-align: center;
 }
 
 /* .navbar-brand {
