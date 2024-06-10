@@ -1,3 +1,11 @@
+.card.bg-dark {
+  background-color: #343a40d0 !important;
+}
+
+img {
+  max-width: 100%;
+}
+
 body {
   background: url("../images/baby_watching_horses.jpg") no-repeat center center fixed;
   -webkit-background-size: cover;
