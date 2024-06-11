@@ -1,0 +1,60 @@
+p.page_desc_text {
+  min-height: 150px;
+}
+
+.card.bg-dark {
+  background-color: #343a40d0 !important;
+}
+
+img {
+  max-width: 100%;
+}
+
+body {
+  background: url("../images/baby_watching_horses.jpg") no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  color: white;
+}
+
+.btn-primary {
+  background: linear-gradient(to bottom, #1a3b5c, #0f2b4a);
+  color: #f1f1f1;
+  border: none;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 2px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease 0s;
+}
+
+.btn-primary:hover {
+  background: linear-gradient(to bottom, #0f2b4a, #1a3b5c);
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.4);
+}
+
+@font-face {
+  font-family: "BrandFont";
+  src: url("../fonts/bickham-script-pro/Bickham\ Script\ Pro\ Regular.ttf") format("truetype");
+}
+
+h1 {
+  font-family: "BrandFont", sans-serif;
+  font-size: 8em;
+  line-height: 0.6em;
+  margin-bottom: 0;
+  margin-top: 0.5em;
+  text-align: center;
+}
+
+/* .navbar-brand {
+  font-family: "BrandFont", sans-serif;
+  font-size: 4em;
+} */
