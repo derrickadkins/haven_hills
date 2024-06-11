@@ -1,3 +1,7 @@
+p.page_desc_text {
+  min-height: 150px;
+}
+
 .card.bg-dark {
   background-color: #343a40d0 !important;
 }
